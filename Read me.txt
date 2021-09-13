@@ -1,0 +1,7 @@
+Ketika ingin menjalankan website ini,
+yang pertama kali dijalankan adalah file index.html
+
+keterangan folder:
+- asset: bersikan foto-foto yang digunakan pada website
+- css: file css yang digunakan pada website
+- javascript: file javascript yang digunakan pada website
